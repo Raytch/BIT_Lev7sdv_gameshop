@@ -1,0 +1,38 @@
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\bin\Debug\SDV7_Assessment2.exe.config
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\bin\Debug\SDV7_Assessment2.exe
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\bin\Debug\SDV7_Assessment2.pdb
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.csprojAssemblyReference.cache
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\SDV7_Assessment2.Properties.Resources.resources
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.csproj.GenerateResource.cache
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.csproj.CoreCompileInputs.cache
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\SDV7_Assessment2.exe
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\SDV7_Assessment2.pdb
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.csproj.CopyComplete
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmOrders.resources
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmAdminMain.resources
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmGame.resources
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmGenreSelect.resources
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmNew.resources
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmSelectType.resources
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmUsed.resources
+C:\Users\rjsma\source\repos\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.InputBox.resources
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\bin\Debug\SDV7_Assessment2.exe.config
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\bin\Debug\SDV7_Assessment2.exe
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\bin\Debug\SDV7_Assessment2.pdb
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.csprojAssemblyReference.cache
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmOrders.resources
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmAdminMain.resources
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmGame.resources
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmGenreSelect.resources
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmNew.resources
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.frmUsed.resources
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.InputBox.resources
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\SDV7_Assessment2.Properties.Resources.resources
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.csproj.GenerateResource.cache
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.csproj.CoreCompileInputs.cache
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\WindowsAdmin.csproj.CopyComplete
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\SDV7_Assessment2.exe
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\SDV7_Assessment2\obj\Debug\SDV7_Assessment2.pdb

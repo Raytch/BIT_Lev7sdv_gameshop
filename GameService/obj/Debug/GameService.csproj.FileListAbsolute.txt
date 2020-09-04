@@ -1,0 +1,7 @@
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\GameService\bin\Debug\GameSelfHost.exe.config
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\GameService\bin\Debug\GameSelfHost.exe
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\GameService\bin\Debug\GameSelfHost.pdb
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\GameService\obj\Debug\GameService.csprojAssemblyReference.cache
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\GameService\obj\Debug\GameService.csproj.CoreCompileInputs.cache
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\GameService\obj\Debug\GameSelfHost.exe
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\GameService\obj\Debug\GameSelfHost.pdb

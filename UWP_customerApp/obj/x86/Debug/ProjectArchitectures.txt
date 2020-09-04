@@ -1,0 +1,1 @@
+C:\Users\rjsma\Documents\Visual Studio 2017\Projects\SDV7_Assessment2\UWP_customerApp\UWP_customerApp.csproj;x86
